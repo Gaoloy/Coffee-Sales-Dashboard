@@ -1,2 +1,1 @@
-# Coffee-Sales-Dashboard
-This shows the excel sheet for Coffee Sales Dashboard within 2019 - 2020 in United States, Ireland ad the UK
+Experience the coffee journey where the United States leads in sales. Customers delight in buying over 2.5kgb of coffee, favoring the light roast for its subtle charm. Excelsa coffee steals the spotlight, becoming the preferred choice. It's a simple tale of rich flavors and the joy of sipping, with the United States at the heart of this delightful coffee adventure.
